@@ -1,0 +1,15 @@
+The target system is: Darwin - 11.2 - 
+The host system is: Darwin - 17.4.0 - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /usr/bin/gcc 
+Build flags: -miphoneos-version-min=8.0;-fembed-bitcode;-fobjc-abi-version=2;-fobjc-arc;
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.o"
+
+The C compiler identification is AppleClang, found in "/Users/eastwind/Documents/openfec_v1.4.2/build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.o"
+
